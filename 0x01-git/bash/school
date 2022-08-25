@@ -1,0 +1,4 @@
+#!/bin/bash
+echo School >> school
+rm echo echo School
+echo School
