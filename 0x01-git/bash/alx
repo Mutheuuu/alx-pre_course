@@ -1,4 +1,2 @@
-#!/bin/bash
-echoALX >> alx
-rm echo echoALX
+#!/bin/bash .
 echo ALX
